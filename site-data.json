@@ -1,31 +1,31 @@
 {
   "business": {
     "name": "Lovefield Auto Repair",
-    "shortName": "Lovefield",
-    "tagline": "Expert Auto Repair You Can Trust in Dallas, TX",
+    "shortName": "Lovefield Auto",
+    "tagline": "Precision Auto Care You Can Trust in Dallas",
     "niche": "Auto Mechanic",
     "phone": "(214) 638-7660",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Your Appointment Today",
+    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8 AM - 12 PM",
+    "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Lovefield Auto Repair | Expert Mechanic in Dallas, TX | (214) 638-7660",
-    "description": "Trust Lovefield Auto Repair in Dallas, TX for reliable auto repair, brake service, engine diagnostics, and more. Family-owned, certified technicians. Call (214) 638-7660."
+    "title": "Lovefield Auto Repair | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Expert auto repair and maintenance in Dallas. From brake service to engine diagnostics, we deliver honest, quality care for your vehicle. Call (214) 638-7660."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair Shop",
-      "headline": "Keep Your Car Running Smoothly with Expert Service",
-      "subheadline": "From routine maintenance to complex repairs, our certified mechanics deliver quality workmanship and honest advice. We treat your car like it's our own.",
+      "eyebrow": "Dallas's Premier Auto Repair",
+      "headline": "Expert Auto Repair & Maintenance You Can Rely On",
+      "subheadline": "Honest diagnostics, quality parts, and skilled mechanics — keep your car running safely with Lovefield Auto Repair.",
       "primaryCta": "Book an Appointment",
       "secondaryCta": "Call (214) 638-7660"
     },
     "stats": [
       {
-        "value": "15+",
+        "value": "30+",
         "label": "Years of Experience"
       },
       {
@@ -33,123 +33,125 @@
         "label": "Cars Serviced"
       },
       {
-        "value": "98%",
-        "label": "Customer Satisfaction"
-      },
-      {
         "value": "4.9",
         "label": "Average Rating"
+      },
+      {
+        "value": "99%",
+        "label": "Customer Satisfaction"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Auto Care",
-        "title": "Full-Service Auto Repair in Dallas",
-        "body": "Whether you need a quick oil change or a major engine overhaul, Lovefield Auto Repair has you covered. Our state-of-the-art diagnostic equipment and skilled technicians ensure your vehicle gets the right fix the first time.",
+        "eyebrow": "Complete Auto Care",
+        "title": "From Routine Maintenance to Major Repairs",
+        "body": "Whether you need an oil change, brake repair, or engine diagnostics, our certified technicians have the expertise to handle it all. We use state-of-the-art equipment and quality parts to ensure your vehicle runs smoothly.",
         "bullets": [
-          "ASE-certified mechanics with ongoing training",
-          "Advanced diagnostic tools for accurate repairs",
-          "Transparent pricing and detailed explanations"
+          "Oil changes, tire rotations, and fluid checks",
+          "Brake repair and replacement",
+          "Engine and transmission diagnostics",
+          "AC and heating system service"
         ],
         "reverse": false,
         "cardLabel": "Our Promise",
-        "cardTitle": "Quality Guaranteed",
-        "cardBody": "We stand behind every repair with a comprehensive warranty. If you're not satisfied, we'll make it right."
+        "cardTitle": "Transparent & Honest Service",
+        "cardBody": "We explain every repair in plain language, provide upfront pricing, and never recommend unnecessary work. Your trust is our priority."
       },
       {
-        "eyebrow": "Customer-First Approach",
-        "title": "Honest Service, Fair Prices",
-        "body": "We believe in building long-term relationships with our customers. That's why we always provide upfront estimates, never upsell unnecessary services, and complete repairs on time.",
+        "eyebrow": "Customer-Focused",
+        "title": "We Treat Your Car Like Our Own",
+        "body": "At Lovefield Auto Repair, we believe in building relationships with our customers. We take the time to understand your needs and provide personalized recommendations to keep your vehicle reliable and safe.",
         "bullets": [
-          "Free multi-point inspections with every service",
+          "Free multi-point inspections",
           "Competitive pricing with no hidden fees",
-          "Shuttle service and loaner cars available"
+          "Warranty on parts and labor",
+          "Convenient scheduling and fast turnaround"
         ],
         "reverse": true,
-        "cardLabel": "Customer Love",
-        "cardTitle": "5-Star Service",
-        "cardBody": "Our customers consistently rate us 5 stars for our friendly staff, quick turnaround, and reliable repairs."
+        "cardLabel": "Our Commitment",
+        "cardTitle": "Quality Work, Every Time",
+        "cardBody": "We stand behind our work with a 12-month/12,000-mile warranty on repairs. If something isn't right, we'll make it right."
       }
     ],
     "whyTitle": "Why Choose Lovefield Auto Repair?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our team holds ASE certifications and attends regular training to stay current with the latest automotive technology."
+        "description": "Our mechanics are ASE-certified and trained on all makes and models, ensuring expert diagnostics and repairs."
       },
       {
-        "title": "Fast Turnaround",
-        "description": "We understand your time is valuable. Most repairs are completed within the same day, and we keep you updated throughout the process."
+        "title": "Honest Pricing",
+        "description": "We provide detailed estimates before any work begins, so you know exactly what to expect — no surprises."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "You'll receive a clear, written estimate before any work begins. No surprises, no hidden charges."
+        "title": "Fast & Reliable Service",
+        "description": "We respect your time. Most repairs are completed same-day, and we offer shuttle service or loaner cars."
       },
       {
-        "title": "Warranty Protection",
-        "description": "All repairs come with a 12-month/12,000-mile warranty for your peace of mind."
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "Our 4.9-star rating reflects our dedication to quality and service. We won't rest until you're 100% satisfied."
       }
     ],
     "testimonials": [
       {
-        "quote": "Lovefield is the only shop I trust with my car. They're honest, fair, and always do great work. Highly recommend!",
+        "quote": "I've been bringing my car to Lovefield for years. They're honest, fair, and always do great work. Highly recommend!",
         "author": "Mike R.",
-        "role": "Oak Lawn resident"
+        "role": "Dallas resident"
       },
       {
-        "quote": "I brought my SUV in for a strange noise, and they diagnosed it quickly. The repair was affordable and done the same day. Amazing service!",
-        "author": "Jessica T.",
-        "role": "Lakewood homeowner"
+        "quote": "Fast, friendly, and professional. They diagnosed my engine issue quickly and fixed it at a reasonable price. Will be back!",
+        "author": "Jessica L.",
+        "role": "Oak Lawn driver"
       },
       {
-        "quote": "After a bad experience at another shop, Lovefield restored my faith in mechanics. They explained everything clearly and the price was right.",
+        "quote": "Finally found a mechanic I can trust. Lovefield explains everything and never tries to upsell. Truly refreshing.",
         "author": "David K.",
-        "role": "Downtown Dallas professional"
+        "role": "Lakewood homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Back on the Road?",
-      "subheadline": "Call us or schedule online for fast, reliable auto repair in Dallas.",
-      "primaryCta": "Book Now",
+      "headline": "Ready to Experience the Lovefield Difference?",
+      "subheadline": "Schedule your appointment today and see why Dallas drivers trust us with their vehicles.",
+      "primaryCta": "Book Online Now",
       "secondaryCta": "Call (214) 638-7660"
     }
   },
   "servicesPage": {
-    "intro": "At Lovefield Auto Repair, we offer a full range of automotive services to keep your vehicle running at its best. From routine maintenance to major repairs, our experienced technicians use the latest tools and techniques to ensure quality results every time."
+    "intro": "At Lovefield Auto Repair, we offer a full range of automotive services to keep your vehicle running at its best. From routine maintenance to complex repairs, our certified technicians have you covered."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Advanced diagnostics to identify and fix engine issues accurately.",
-      "longDescription": "Our technicians use cutting-edge diagnostic equipment to pinpoint engine problems quickly. Whether it's a check engine light, rough idling, or loss of power, we provide thorough repairs that restore performance and reliability.",
+      "shortDescription": "Pinpoint and fix engine issues with advanced diagnostic tools and expert know-how.",
+      "longDescription": "Our technicians use the latest diagnostic equipment to identify engine problems accurately. Whether it's a check engine light, rough idling, or loss of power, we provide thorough repairs to restore performance and fuel efficiency.",
       "benefits": [
-        "Accurate diagnosis reduces guesswork and saves money",
-        "Restored engine performance and fuel efficiency",
-        "Prevents minor issues from becoming major repairs"
+        "Accurate diagnostics using OEM-grade scanners",
+        "Efficient repairs that save you time and money",
+        "Extended engine life with proper maintenance"
       ],
       "process": [
         {
           "title": "Comprehensive Scan",
-          "description": "We connect your vehicle to our diagnostic system to read error codes and analyze live data."
+          "description": "We connect your vehicle to advanced diagnostic tools to read error codes and assess system performance."
         },
         {
-          "title": "In-Depth Inspection",
-          "description": "Our technician performs a visual and mechanical inspection to confirm the root cause."
+          "title": "Detailed Explanation",
+          "description": "Our technician explains the issue, shows you the data, and provides a clear estimate of needed repairs."
         },
         {
-          "title": "Repair & Verification",
-          "description": "We complete the necessary repairs and test-drive your car to ensure everything is working perfectly."
+          "title": "Quality Repair",
+          "description": "We perform the repair using quality parts, then test-drive to ensure everything runs smoothly."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within an hour. If further inspection is needed, we'll keep you informed."
+          "question": "How do I know if my engine needs diagnostics?",
+          "answer": "If your check engine light is on, your car is running rough, or you notice decreased fuel economy, it's time for a diagnostic check."
         },
         {
-          "question": "Will my check engine light come back after repair?",
-          "answer": "We address the underlying issue, so the light should stay off. If it returns, we'll re-diagnose at no extra charge within our warranty period."
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics take about an hour. Complex issues may require additional time for thorough testing."
         }
       ],
       "slug": "engine-diagnostics-repair"
@@ -157,145 +159,145 @@
     {
       "icon": "02",
       "title": "Brake Service & Repair",
-      "shortDescription": "Keep your brakes responsive and safe with expert service.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect, repair, and replace brake pads, rotors, calipers, and fluid to ensure optimal stopping power. Our team uses quality parts and follows manufacturer specifications.",
+      "shortDescription": "Keep your brakes responsive and safe with our expert inspection and repair services.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid levels to ensure optimal stopping power. Whether you need a simple pad replacement or a full brake overhaul, we deliver quality workmanship.",
       "benefits": [
-        "Enhanced safety and shorter stopping distances",
-        "Quieter, smoother braking performance",
-        "Extended brake system life with proper maintenance"
+        "Enhanced safety with thorough brake inspections",
+        "Reduced stopping distance and noise",
+        "Long-lasting brake components with warranty"
       ],
       "process": [
         {
-          "title": "Thorough Inspection",
-          "description": "We check brake pads, rotors, calipers, lines, and fluid levels."
+          "title": "Brake Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and fluid level."
         },
         {
-          "title": "Necessary Repairs",
-          "description": "We replace worn components with high-quality parts and machine rotors if needed."
+          "title": "Repair Recommendation",
+          "description": "We provide a detailed report and options for repair, from pad replacement to rotor resurfacing."
         },
         {
-          "title": "Final Testing",
-          "description": "After repair, we test the brakes on the road to confirm proper function and pedal feel."
+          "title": "Precision Service",
+          "description": "Our technicians replace parts with precision, then test your brakes to ensure peak performance."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace brake pads?",
-          "answer": "Typically every 30,000 to 70,000 miles depending on driving habits. We recommend an inspection at every oil change."
+          "question": "How often should I get my brakes checked?",
+          "answer": "We recommend a brake inspection every 10,000 miles or if you hear squeaking, grinding, or feel vibrations."
         },
         {
-          "question": "What are signs of brake trouble?",
-          "answer": "Squealing, grinding, a soft pedal, or vibration when braking. If you notice any, bring your car in immediately."
+          "question": "Do you use OEM or aftermarket parts?",
+          "answer": "We use high-quality parts that meet or exceed OEM standards, and we offer options to fit your budget."
         }
       ],
       "slug": "brake-service-repair"
     },
     {
       "icon": "03",
-      "title": "Oil Changes & Routine Maintenance",
-      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
-      "longDescription": "Regular oil changes are the simplest way to extend engine life. We use premium oils and filters, and include a complimentary multi-point inspection to catch potential issues early.",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Regular oil changes and fluid checks keep your engine running smoothly and efficiently.",
+      "longDescription": "Routine oil changes are the simplest way to extend your engine's life. We use quality oil and filters, and also check all other fluids — coolant, transmission, brake, and power steering — to keep your car in top shape.",
       "benefits": [
-        "Improved engine longevity and performance",
-        "Better fuel economy and reduced emissions",
-        "Early detection of leaks, worn belts, and other concerns"
+        "Improved engine performance and fuel economy",
+        "Prevents costly engine damage",
+        "Complimentary fluid top-offs with every oil change"
       ],
       "process": [
         {
-          "title": "Drain Old Oil",
-          "description": "We safely drain the old oil and dispose of it responsibly."
-        },
-        {
-          "title": "Replace Filter & Add New Oil",
-          "description": "We install a new oil filter and fill with the correct grade and quantity of oil."
+          "title": "Oil Drain & Filter Change",
+          "description": "We drain old oil, replace the filter, and refill with the recommended oil grade."
         },
         {
           "title": "Multi-Point Inspection",
-          "description": "We check fluid levels, belts, hoses, tires, and lights, and provide a report."
+          "description": "We check all fluid levels, belts, hoses, and tire pressure."
+        },
+        {
+          "title": "Fluid Top-Off",
+          "description": "We top off any low fluids and provide a report on your vehicle's overall health."
         }
       ],
       "faqs": [
         {
-          "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional, synthetic blend, and full synthetic oils to match your vehicle's requirements."
+          "question": "How often should I get an oil change?",
+          "answer": "Most vehicles need an oil change every 3,000-5,000 miles, but check your owner's manual for specific intervals."
         },
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Most modern cars need oil changes every 5,000 to 7,500 miles. Check your owner's manual or ask our technicians."
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic oil to match your vehicle's requirements."
         }
       ],
-      "slug": "oil-changes-routine-maintenance"
+      "slug": "oil-change-fluid-services"
     },
     {
       "icon": "04",
-      "title": "AC & Heating System Repair",
-      "shortDescription": "Stay comfortable year-round with reliable climate control service.",
-      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians diagnose and repair all climate system issues, from refrigerant leaks to blower motor failures, restoring comfort to your cabin.",
+      "title": "AC & Heating System Service",
+      "shortDescription": "Stay comfortable year-round with expert AC and heating repairs and maintenance.",
+      "longDescription": "When your car's AC blows warm air or the heater isn't working, our technicians can diagnose and fix the issue. We service compressors, condensers, evaporators, and all climate control components.",
       "benefits": [
-        "Quick relief from extreme temperatures",
-        "Improved air quality and defrosting performance",
-        "Prevents costly compressor or condenser damage"
+        "Comfortable cabin temperature in all seasons",
+        "Improved air quality with proper system function",
+        "Energy-efficient operation saves fuel"
       ],
       "process": [
         {
-          "title": "System Diagnosis",
-          "description": "We check refrigerant pressure, electrical components, and airflow to identify the problem."
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor operation, and all vents and controls."
         },
         {
-          "title": "Repair & Replacement",
-          "description": "We fix leaks, replace faulty parts, and recharge refrigerant to manufacturer specs."
+          "title": "Leak Detection",
+          "description": "Using UV dye and electronic detectors, we find and seal any refrigerant leaks."
         },
         {
-          "title": "Performance Test",
-          "description": "We run the system to verify cooling and heating output, ensuring even temperature distribution."
+          "title": "Repair & Recharge",
+          "description": "We repair faulty components and recharge the system to manufacturer specifications."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose and fix it."
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We can diagnose the exact issue."
         },
         {
           "question": "How often should I service my car's AC?",
-          "answer": "We recommend an AC check every two years. If you notice reduced cooling or strange odors, bring it in sooner."
+          "answer": "We recommend an AC check every two years or if you notice reduced cooling performance."
         }
       ],
-      "slug": "ac-heating-system-repair"
+      "slug": "ac-heating-system-service"
     }
   ],
   "about": {
-    "headline": "Your Trusted Local Auto Repair Shop in Dallas",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road, building lasting relationships through transparency and expertise.",
+    "headline": "Your Trusted Dallas Auto Repair Experts",
+    "mission": "To provide honest, high-quality automotive repair and maintenance that keeps our customers safe and satisfied.",
     "story": [
-      "Lovefield Auto Repair was founded with a simple mission: deliver reliable, honest car care to the Dallas community. What started as a small garage has grown into a full-service auto repair shop trusted by thousands of drivers. Our founder, a lifelong mechanic, believed that every customer deserves clear communication and fair pricing — values that still guide us today.",
-      "Over the years, we've invested in the latest diagnostic technology and continuous training for our team. We've built a reputation for solving tough problems and treating every car with the same care we'd give our own. Whether you're a first-time customer or a regular, you'll always receive friendly service and expert advice."
+      "Lovefield Auto Repair has been serving the Dallas community for over 30 years. What started as a small garage with a passion for cars has grown into a full-service auto repair shop trusted by thousands. Our founder, a lifelong mechanic, believed in doing the job right the first time — and that principle still guides us today.",
+      "We've built our reputation on transparency, quality workmanship, and genuine care for our customers. Every vehicle that comes through our doors receives the same attention to detail we'd give our own. We're proud to be a part of Dallas and to help keep its drivers safe on the road."
     ],
     "highlight": {
-      "stat": "15+",
+      "stat": "30+",
       "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend unnecessary repairs. Our estimates are honest and upfront."
+        "description": "We always tell you the truth about what your car needs and what it doesn't."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer guidelines for lasting results."
-      },
-      {
-        "title": "Respect",
-        "description": "We treat your time and budget with respect, completing work on schedule and within quoted prices."
+        "description": "We use top-tier parts and techniques to ensure lasting repairs."
       },
       {
         "title": "Community",
-        "description": "As a local business, we're proud to support Dallas families and keep their vehicles safe."
+        "description": "We support our local neighbors and treat every customer like family."
+      },
+      {
+        "title": "Reliability",
+        "description": "We deliver on our promises, on time and on budget."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with Lovefield Auto Repair",
-    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form below.",
+    "subheadline": "We're here to help with all your auto repair needs. Call or visit us today.",
     "primaryCta": "Call (214) 638-7660",
     "formCta": "Send Message",
     "serviceAreas": [
@@ -304,8 +306,7 @@
       "Lakewood",
       "Highland Park",
       "University Park",
-      "Uptown",
-      "Downtown Dallas"
+      "Park Cities"
     ]
   },
   "social_proof": {
